@@ -10,7 +10,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/qioalice/ekago_private/ekaclike"
+	"github.com/qioalice/ekago_private/ekaclike/v4"
 
 	"github.com/stretchr/testify/assert"
 )
