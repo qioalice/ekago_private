@@ -1,4 +1,4 @@
-module github.com/qioalice/ekago_private/ekaclike
+module github.com/qioalice/ekago_private/ekaclike/v4
 
 go 1.19
 
